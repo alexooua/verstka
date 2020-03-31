@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/verstka/static/css/main.5f361e03.chunk.css",
+    "main.js": "/verstka/static/js/main.84b94f78.chunk.js",
+    "main.js.map": "/verstka/static/js/main.84b94f78.chunk.js.map",
+    "runtime-main.js": "/verstka/static/js/runtime-main.89524ee8.js",
+    "runtime-main.js.map": "/verstka/static/js/runtime-main.89524ee8.js.map",
+    "static/js/2.f6ebad12.chunk.js": "/verstka/static/js/2.f6ebad12.chunk.js",
+    "static/js/2.f6ebad12.chunk.js.map": "/verstka/static/js/2.f6ebad12.chunk.js.map",
+    "index.html": "/verstka/index.html",
+    "precache-manifest.e2eb1ca9ba9bf0a5bb4a724e8a68f8ac.js": "/verstka/precache-manifest.e2eb1ca9ba9bf0a5bb4a724e8a68f8ac.js",
+    "service-worker.js": "/verstka/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/verstka/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f6ebad12.chunk.js.LICENSE.txt": "/verstka/static/js/2.f6ebad12.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/verstka/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89524ee8.js",
+    "static/js/2.f6ebad12.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.84b94f78.chunk.js"
+  ]
+}
