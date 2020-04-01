@@ -19,7 +19,7 @@ nav > a {
     grid-area: 2/2/2/3;
 }
 
-/**/
+/*1*/
 .blockFirst {
     background-color: #ffdee9;
     display: grid;
@@ -45,7 +45,7 @@ nav > a {
     background-color: #98999b;
 }
 
-/**/
+/*2*/
 .blockTwo {
     background-color: #109a9b;
     display: grid;
@@ -93,12 +93,55 @@ nav > a {
     grid-template-rows: 50px 88px 50px;
 
 }
-.skill img{
+
+.skill img {
     order: 1;
     background-color: #ffb3ba;
     grid-area: 1/2/1/5
 
 }
-.skill h3{
+
+.skill h3 {
     grid-area: 2/2/3/5;
+}
+
+/*3*/
+.blockThree {
+    background-color: #9b7534;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+}
+
+.works {
+    grid-area: 2/2/5/10;
+    background-color: #9b7a8c;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 3fr;
+}
+
+.worksItems {
+    background-color: #fff4b0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 100px;
+}
+
+.work {
+    background-color: #b6a7ff;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+}
+
+.workImg {
+    grid-area: 1/1/5/11;
+    background-color: #ffe1e4;
+}
+
+.work button {
+    order: 1;
+    grid-area: 3/3/3/8;
 }

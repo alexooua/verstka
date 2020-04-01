@@ -52,25 +52,25 @@ function App() {
                       </div>
                   </div>
 
-              </section>
-              <section>Блок3
-                  <div>
+              </section >
+              <section className="blockThree">Блок3
+                  <div className="works">
                       <div>
                           <h3>Мои работы</h3>
                       </div>
-                      <div>
-                          <div>
-                              <img src="" alt="Картинка"/>
+                      <div className="worksItems" >
+                          <div className="work">
+                              <div className="workImg">Картинка</div>
                               <button>Show</button>
-                              <h4></h4>
-                              <p></p>
+                              <h4>Name project</h4>
+                              <p>Some little description</p>
 
                           </div>
-                          <div>
-                              <img src="" alt="Картинка"/>
+                          <div className="work">
+                              <div className="workImg">Картинка</div>
                               <button>Show</button>
-                              <h4></h4>
-                              <p></p>
+                              <h4>Name project</h4>
+                              <p>Some little description</p>
                           </div>
                       </div>
                   </div>
