@@ -32,18 +32,21 @@ function App() {
 
                       <div className='skillsItem'>
                           <div className="skill">
-                              <div><img src="" alt="im"/></div>
-                              <h3>React</h3>
+                              <div><img src="" alt="im"/>
+                                  <h3>React</h3>
+                              </div>
                               <p>About skills</p>
                           </div>
                           <div className="skill">
-                              <img src="" alt="im"/>
-                              <h3>React</h3>
+                              <div><img src="" alt="im"/>
+                                  <h3>React</h3>
+                              </div>
                               <p>About skills</p>
                           </div>
                           <div className="skill">
-                              <img src="" alt="im"/>
-                              <h3>React</h3>
+                              <div><img src="" alt="im"/>
+                                  <h3>React</h3>
+                              </div>
                               <p>About skills</p>
                           </div>
                       </div>
