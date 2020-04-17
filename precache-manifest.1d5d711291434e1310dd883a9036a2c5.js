@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bcc009b205dafcc8eaf04eec00c6f6a",
+    "revision": "89c762689033422b52e111dcaf1a67a0",
     "url": "/verstka/index.html"
   },
   {
-    "revision": "42f2c21d8a5c38911023",
-    "url": "/verstka/static/css/main.5f361e03.chunk.css"
+    "revision": "d65c80bd9a2e8a46ce79",
+    "url": "/verstka/static/css/main.10ce9420.chunk.css"
   },
   {
     "revision": "c79bc9666fc53e5dbc79",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/verstka/static/js/2.f6ebad12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42f2c21d8a5c38911023",
-    "url": "/verstka/static/js/main.84b94f78.chunk.js"
+    "revision": "d65c80bd9a2e8a46ce79",
+    "url": "/verstka/static/js/main.9cbc1268.chunk.js"
   },
   {
     "revision": "1685b2830c7829de162f",
     "url": "/verstka/static/js/runtime-main.89524ee8.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/verstka/static/media/logo.5d5d9eef.svg"
   }
 ]);
